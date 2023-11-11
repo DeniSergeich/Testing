@@ -31,5 +31,5 @@
 
 ### Покрытие тестами:
 
-<image src="C:\Users\serob\OneDrive\Рабочий стол\HomeWork_6\untitled\CoverageTest.jpg">
+<image src="HomeWork_6/untitled/CoverageTest.jpg">
 
