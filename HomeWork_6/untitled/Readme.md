@@ -31,5 +31,5 @@
 
 ### Покрытие тестами:
 
-<image src="HomeWork_6/untitled/CoverageTest.jpg">
+Статистика указана в файле CoverageTest.jpg в корне проекта.
 
